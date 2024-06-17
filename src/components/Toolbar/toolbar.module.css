@@ -1,0 +1,23 @@
+.btn {
+    margin-right: 10px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 14px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.btn-selected {
+    margin-right: 10px;
+    background-color: rgb(82, 82, 82);
+    color: white;
+    border: 1px solid black;
+    font-size: 14px;
+    padding: 8px;
+    cursor: pointer;
+}
